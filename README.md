@@ -19,7 +19,7 @@
     終點：當抵達parking lot，即任務完成。
     
 # Scene Design
-![scene](https://user-images.githubusercontent.com/59250738/122865201-8e205b00-d358-11eb-9527-78f0e67ad136.jpg)
+![image](https://user-images.githubusercontent.com/59250738/123070848-b5edec80-d446-11eb-9c80-e70245d25711.png)
 
 # Demo Video
 
